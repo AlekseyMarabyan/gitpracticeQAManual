@@ -1,0 +1,56 @@
+#main-header {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.header-title {
+    color: #333;
+    font-size: 2em;
+}
+
+
+.about-section {
+    margin: 20px auto;
+    text-align: center;
+}
+
+.profile-photo {
+    border-radius: 50%;
+    border: 3px solid #4caf50;
+}
+
+.about-text {
+    font-size: 1.2em;
+    color: #555;
+    line-height: 1.5;
+}
+
+
+.nav-list {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.nav-item {
+    display: inline;
+    margin: 0 15px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #4caf50;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+#main-footer {
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
